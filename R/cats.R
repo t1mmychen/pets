@@ -8,4 +8,4 @@ cats <- function(love) {
   return(print(msg))
 }
 
-load_all("cats.R")
+load_all()
